@@ -1,0 +1,94 @@
+.nav{
+  height: 50px;
+  padding-top:11px;
+  padding-left: 20px;
+  display: flex;
+  box-shadow: 0px 2px 7px rgba(0,0,0,0.1) ;
+}
+.air{
+  padding-left: 10px;
+  font-size: 27px;
+  font-weight: bolder;
+  margin: 0px;
+}
+.logo{
+  height: 75%;
+  padding-left: 10px;
+  max-width: 200px;
+}
+.coll{
+  height: 400px;
+  padding-top: 70px;
+  padding-left: 40px;
+
+}
+.cont{
+  display: flex;
+  height: 90vh;
+}
+.about{
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+}
+.rate{
+  padding-inline: 5px;
+}
+.star{
+  height: 14px;
+  width: 14px;
+  padding: 0px;
+  margin: 2px;
+}
+.wrt{
+  padding-left: 100px;
+  padding-top: 100px;
+}
+.photo{
+  height: 235px;
+  width: 352px;
+}
+.card{
+  padding: 50px;
+  height: 300px;
+}
+.head{
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgba(16, 16, 16, 0.728);
+}
+.des{
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.rate , .place{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.place{
+  padding-left: 5px;
+}
+.main{
+  background-color: rgba(146, 142, 142, 0.555);
+}
+.remark , .cost{
+  margin-top: 3px;
+  margin-bottom: 2px;
+}
+h1{
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 100px;
+  padding-top: 5px;
+}
+.review{
+  display: flex; 
+  flex-wrap: wrap;
+}
